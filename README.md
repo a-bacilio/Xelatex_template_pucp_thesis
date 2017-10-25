@@ -8,3 +8,6 @@ Esta ajustado con los margenes necesarios, interlineado 1.5, tamaño 11, letra a
 
 Si tienen alguna consulta, pueden escribirlo en el issues.
 
+Para compilar hacer esot en miktex:
+Xelatex->Bibtex->Xelatex->Xelatex
+
